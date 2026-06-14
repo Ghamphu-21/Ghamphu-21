@@ -1,9 +1,8 @@
 # Hey there, I'm Ghamphu! 👋
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3phY3l0aWg3eTlqczZyaGtkZDE1YjYzNDNubHd0bndlOHVuMnBzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="250" align="right" />
 I break into systems for fun and call it "learning." Currently a B.Tech student by day, HTB grinder by night. My cat watches me fail boxes and judges silently.
-
-
-
+<br><br>
+Deep in the HTB CPTS path, documenting every technique and sharpening my methodology along the way.
 
 
 ## 🌐 Socials:
