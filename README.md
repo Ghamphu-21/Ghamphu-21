@@ -1,5 +1,5 @@
 # Hey there, I'm Ghamphu! 👋
-👨‍💻 Aspiring cybersecurity specialist driven by curiosity and precision.<br>⚙️ Skilled in Java, Python, and Linux, exploring how security shapes the digital world.<br>🔒 Passionate about ethical hacking, system defense, and continuous growth.<br>🌐 Combining logic and creativity to solve real-world security challenges.<br>"Think deep. Code clean. Secure smarter."
+I break into systems for fun and call it "learning." Currently a B.Tech student by day, HTB grinder by night. My cat watches me fail boxes and judges silently.
 
 
 ## 🌐 Socials:
